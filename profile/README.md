@@ -1,7 +1,7 @@
 # HighCode
 ## Bem-vindo à organização HighCode!
 
-Somos um grupo de estudantes de Desenvolvimento de Software Multiplataforma, comprometidos com a excelência e inovação em tecnologia. Nosso foco é desenvolver soluções de software de alta qualidade, aplicando os conhecimentos adquiridos ao longo do curso.
+Somos um grupo de estudantes de Desenvolvimento de Software Multiplataforma da FATEC Zona Leste, comprometidos com a excelência e inovação em tecnologia. Nosso foco é desenvolver soluções de software de alta qualidade, aplicando os conhecimentos adquiridos ao longo do curso.
 
 ## Sobre nós:
 
