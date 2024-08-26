@@ -9,6 +9,8 @@ Na HighCode, acreditamos que a prática é essencial para o aprendizado. Por iss
 
 ## O que fazemos:
 
-### Projetos Semestrais: Cada semestre, escolhemos um desafio real ou uma necessidade de mercado para desenvolver uma solução de software. Nossos projetos variam desde aplicativos web até sistemas mais complexos, sempre buscando agregar valor e aprender com cada etapa do desenvolvimento.
+### Projetos Semestrais: 
+  Cada semestre, escolhemos um desafio alinhado com os objetivos da ODS ou uma necessidade de mercado para desenvolver uma solução de software. Nossos projetos variam desde aplicativos web até sistemas mais complexos, sempre buscando agregar valor e aprender com cada etapa do desenvolvimento.
 
-### Colaboração e Crescimento: Valorizamos a troca de ideias e o aprendizado mútuo. Trabalhar em equipe nos permite aprimorar nossas habilidades técnicas e desenvolver soft skills como comunicação, gestão de tempo e resolução de problemas.
+### Colaboração e Crescimento: 
+  Valorizamos a troca de ideias e o aprendizado mútuo. Trabalhar em equipe nos permite aprimorar nossas habilidades técnicas e desenvolver soft skills como comunicação, gestão de tempo e resolução de problemas.
