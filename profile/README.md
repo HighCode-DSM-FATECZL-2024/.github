@@ -14,3 +14,10 @@ Na HighCode, acreditamos que a prática é essencial para o aprendizado. Por iss
 
 ### Colaboração e Crescimento: 
   Valorizamos a troca de ideias e o aprendizado mútuo. Trabalhar em equipe nos permite aprimorar nossas habilidades técnicas e desenvolver soft skills como comunicação, gestão de tempo e resolução de problemas.
+
+
+
+
+### Repositório do Projeto
+
+[Repositório principal do projeto AgroSynTech](https://github.com/HighCode-DSM-FATECZL-2024/AgroSynTech)
